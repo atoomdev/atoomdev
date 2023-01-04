@@ -5,7 +5,7 @@
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:atesaltinkaynak@mail.com)](mailto:atesaltinkaynak@gmail.com)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=justat00m)
 
-<img width="45%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=clqu&theme=black-ice&hide_border=true&stroke=0000&background=0D1117">
+<img width="45%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=justat00m&theme=black-ice&hide_border=true&stroke=0000&background=0D1117">
 
 <div align="left" width="100%">
    
