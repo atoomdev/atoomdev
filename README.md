@@ -20,7 +20,7 @@
    
 ## ⚙️ Technologies I use
    
-<img src="https://skillicons.dev/icons?i=ts,js,java,html,css,php,tailwind,nodejs,mysql,mongodb,react,nextjs&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,java,html,css,php,tailwind,nodejs,mysql,mongodb,react,nextjs&theme=dark" />
 </div>
 
 <br />
