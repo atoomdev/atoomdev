@@ -11,10 +11,10 @@
    
 ## 🧐 About
 
-- Hello, at00m is talking. I'm 15 y/o, a 2st year high school student.
+- Hello, at00m is talking. I'm 16 y/o, a 3rd year high school student.
 
 - 👨‍💻 Website: http://at00m.xyz
-- 📫 How to reach me: root@at00m.xyz
+- 📫 How to reach me: atesaltinkaynak@gmail.com
   
 <br />
    
