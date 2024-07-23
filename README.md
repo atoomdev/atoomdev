@@ -56,13 +56,3 @@
 <img src="https://github-profile-trophy.vercel.app/?username=atoomdev&theme=darkhub&no-frame=true&margin-w=15&margin-h=15" />
 
 <br />
-
-## ✨ Stats
-
-<div width="100%">
-<img src="https://github.com/atoomdev/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/atoomdev/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
-</div>
-
-<br />
-<br />
