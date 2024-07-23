@@ -28,9 +28,7 @@
 
 ## 📱 Me on Media
 <div>
-   <a href="https://instagram.com/at00mpeek"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" /></a>
-   <a href="https://twitter.com/@justatoom"><img src="https://skillicons.dev/icons?i=twitter&theme=dark" /></a>
-   <a href="https://discord.com/users/654732196594319365"><img src="https://skillicons.dev/icons?i=discord&theme=dark" /></a>
+   <a href="https://instagram.com/atesaltnk"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" /></a>
 </div>
 
 
