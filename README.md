@@ -35,14 +35,14 @@
 <br />
 
 ## ⚡ GitHub Trophies</h2>
-<img src="https://github-profile-trophy.vercel.app/?username=justat00m&theme=darkhub&no-frame=true&margin-w=15&margin-h=15" />
+<img src="https://github-profile-trophy.vercel.app/?username=at00mdev&theme=darkhub&no-frame=true&margin-w=15&margin-h=15" />
 
 <br />
 
 ## ✨ Stats
 
 <div align="center" width="100%">
-   <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=justat00m&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117">
+   <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=atoomdev&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117">
 </div>
 
 <br />
