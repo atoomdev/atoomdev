@@ -11,9 +11,10 @@
    
 ## 🧐 About
 
-- Hello, at00m is talking. I'm 16 y/o, a 3rd year high school student.
+- Hello, at00m is talking. I'm 17 y/o, a 3rd year high school student.
 
 - 👨‍💻 Website: http://at00m.xyz
+- 🗃️ CEO & Founder of Sapienties - https://sapienties.com & FlexMarketing
 - 📫 How to reach me: atesaltinkaynak@gmail.com
   
 <br />
