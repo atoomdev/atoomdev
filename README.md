@@ -5,7 +5,8 @@
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:me@clqu.live)](mailto:mail@clqu.dev)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=clqu)
 
-<img width="45%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=atoomdev&theme=black-ice&hide_border=true&stroke=0000&background=0D1117">
+<img style="width: 45%; margin-top: 20px;" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=atoomdev&theme=black-ice&hide_border=true&stroke=0000&background=0D1117">
+
 
 <div align="left" width="100%">
    
